@@ -6,6 +6,14 @@
 
 A serverless web application that allows users to create, share, and host personalized digital gifts. The app generates custom short links (e.g., `yoursite.com/s/aB3x9Z`) that permanently load the recipient's custom gift directly from a PostgreSQL database.
 
+## ✨ The Experience
+
+* **Tailored Digital Keepsakes:** Design a beautiful, personalized webpage dedicated entirely to your loved one.
+* **Frictionless Creation:** An intuitive, clean interface that lets you focus on your memories and message, without any technical hurdles.
+* **Elegant Sharing:** Instantly generate a short, clean link to seamlessly deliver your gift via text or direct message.
+* **A Permanent Sanctuary:** Their gift lives on a private, dedicated corner of the internet they can bookmark and revisit whenever they want.
+* **Distraction-Free:** A pure, ad-free environment designed to make them feel truly special and celebrated.
+
 ## ✨ Features
 * **Custom Gift Creation:** Users can design personalized digital gifts with a clean UI.
 * **Short Link Generation:** Automatically generates a 6-character clean URL slug for sharing.
